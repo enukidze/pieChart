@@ -1,0 +1,33 @@
+[{
+    "name": "Healthcare",
+    "value": 8,
+    "color": "#D0352B"
+}, {
+    "name": "Leisure",
+    "value": 10,
+    "color": "#EE9F9B"
+}, {
+    "name": "Utilities",
+    "value": 2,
+    "color": "#EF8632"
+},{
+    "name": "Loan",
+    "value": 10,
+    "color": "#549E3F"
+}, {
+    "name": "Transportation",
+    "value": 15,
+    "color": "#BBDE93"
+}, {
+    "name": "Food",
+    "value": 20,
+    "color": "#3C76AF"
+}, {
+    "name": "Rent",
+    "value": 30,
+    "color": "#AECDE1"
+}, {
+    "name": "Education",
+    "value": 5,
+    "color": "#F4C27B"
+}]
