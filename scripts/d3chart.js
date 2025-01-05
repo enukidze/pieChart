@@ -135,6 +135,15 @@ class Chart {
             .attr('height',50)
             .html(d => `<div style="font-size: 12px;">${d.data.name}</div>`)
 
+            const legend = chart._add({
+                tag: 'foreignObject',
+                className: 'main-leged'
+            })
+            .attr('width',400)
+            .attr('height',50)
+            .attr('x',(chartWidth / 2) - 100)
+            .attr('y',50)
+            .html(`<div style="font-weight: bold;">Avarage Household Expenses </div>`)
 
     }
 
